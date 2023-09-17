@@ -17,3 +17,6 @@
 
 # Application Preview
 - https://i.imgur.com/1yweFt1.png
+
+# Download
+- Check the Releases tab for the latest versions
