@@ -1,5 +1,5 @@
 # Win11AutoLoginTool-PyEdition
-- Recreation of my Win11AutoLoginTool using Python instead of VB
+- Recreation of my Win11AutoLoginTool using Python 3 instead of VB
 - .py file is included
 
 # How to use
