@@ -1,4 +1,4 @@
-# Win11AutoLoginTool-PyEdition
+# Windows 11 Auto Login Tool - Python
 - Recreation of my Win11AutoLoginTool using Python 3 instead of VB
 - .py file is included
 
